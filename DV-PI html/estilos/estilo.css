@@ -1,0 +1,153 @@
+html{
+    
+    background-color: #1f1f1f;
+}
+.endereco{
+    color: #FDFDFD;
+    align-self: center;
+    justify-content: center;
+    margin: 10%;
+}
+
+header,footer{
+    display: flex;
+    background-color: #12171B;
+    height: 100px;
+    width: 100%;
+    align-content: center;
+}
+.entrar,.cadastrar{
+    font-size: 30px;
+    border-radius: 5px;
+    display: flex;
+    align-self: center;
+    margin-right: 30px;
+}
+.entrar{
+    background-color: lightgray;
+    margin-left: auto;
+}
+.dvbikeslogo{
+    height: 100px;
+    margin-left: 70px;
+    
+    display: flex;
+    align-self: center;
+}
+.div3index{
+    text-align: center;
+}
+.carrossel{
+    background-color: chartreuse;
+    padding: 50px;
+}
+.div2index{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quemsomos,.pedaleconosco{
+    color: #FDFDFD;
+    text-align: center;
+    margin-right: 100px;
+    background-color: #12171B;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.quemsomos{
+    margin-left: 100px;
+}
+.links{
+    margin-right: 20px;
+    margin-left: auto;
+    display: flex;
+}
+.menuprodutos{
+    background-color: chartreuse;
+    display: flex;
+    align-self: flex-start;
+    padding: 20px;
+    float: left;
+    flex-direction: column;
+}
+.div2index{
+    display: flex;
+    align-content: center;
+}
+.telefone,.contatos{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #12171B;
+    color: #FDFDFD;
+    font-size: 30px;
+    width: 30%;
+}
+.div4index{
+    font-size: larger;
+    color: #FDFDFD;
+    background-color: #12171B;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+}
+.emaillogin,.senhalogin{
+    background-color: white;
+}
+.confirmarlogin{
+    margin-bottom: 150px;
+}
+.emaillogin{
+    margin-top: 150px;
+}
+.div1login{
+    margin: 0 40% 0 30%;
+}
+.div1cadastro{
+    margin: 5% 40% 0 30%;
+}
+.emailcadastro,.senhacadastro,.confirmarsenhacadastro,.nomecadastro,.telefonecadastro,.enderecocadastro,.cpfcadastro{
+    background-color: white;
+}
+footer{
+    margin-top: auto;
+    bottom: 0;
+}
+.div1contatos{
+    float: left;
+    margin: 5px 30% 5px 10%;
+    flex-direction: column;
+    display: flex;
+    background-color: white;
+}
+.div2contatos{
+    float: right;
+    margin: 5px 10% 5px 30%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.div3contatos{
+    position: absolute;
+    bottom: 15%;
+    width: 100%;
+    text-align: center;
+    display: block;
+    background-color: white;
+}
+.produto{
+    margin: 10px auto 10px auto;
+    background-color: white;
+}
+.divprodutos{
+    display: flex;
+    flex-direction: row;
+}
+.pesquisa{
+    border-radius: 10px;
+    font-size: larger;
+    margin: 10px 30% 10px 30%;
+    background-color: white;
+}
